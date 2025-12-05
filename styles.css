@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.testimonial-container{
+	background-color: #ffffff;
+	padding: 20px;
+}
+
+.testimonial {
+	background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.author{
+	text-align: right;
+	font-style:italic;
+}
